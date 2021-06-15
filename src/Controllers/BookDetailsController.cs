@@ -10,7 +10,7 @@ namespace src.Controllers
 
         public string Index()
         {
-            return "<h1>Hello, this is the BookDetails index page.</h1>";
+            return "Hello, this is the BookDetails index page.";
         }
 
         // 
